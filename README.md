@@ -38,4 +38,4 @@ Specialization : Game Development
 
 ---
 
-© 2024 John Doe. All rights reserved.
+© 2024 Miraj. All rights reserved.
