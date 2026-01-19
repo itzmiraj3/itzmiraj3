@@ -32,7 +32,7 @@ Specialization : Game Development
 
 ## Contact
 - Email: miraj111ahamed@gmail.com
-- LinkedIn: linkedin.com/in/johndoe
+- LinkedIn:  https://www.linkedin.com/in/monirujjaman-miraj/
 - Portfolio: johndoe.dev
 - GitHub: github.com/johndoe
 
