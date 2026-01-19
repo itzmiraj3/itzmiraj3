@@ -1,16 +1,41 @@
-## Hi there 👋
+# Md. Monirujjaman Miraj
+### Game Developer
 
-<!--
-**itzmiraj3/itzmiraj3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated game developer specializing in Unity and Unreal Engine development. Passionate about creating memorable gaming experiences through clean code and innovative design.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** C++, C#, Python, JavaScript
+- **Engines:** Unity, Unreal Engine, Godot
+- **Tools:** Git, Blender, FMOD, Visual Studio
+- **Specialties:** Gameplay Programming, AI Systems, Performance Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+### Solo Game Developer | 2024-Present
+- Developed 3 complete game projects from concept to release
+- Implemented custom game systems and mechanics
+- Optimized performance for multiple platforms
+
+### Game Jam Participant | 2026-Present
+- Participated in 5+ game jams including Ludum Dare and Global Game Jam
+- Created game prototypes in constrained timeframes
+- Collaborated with artists and designers
+
+## Education
+**Computer Science and Technology**  
+Rangpur Polytechnic Institute | 2022-2026  
+Specialization : Game Development
+
+## Projects
+1. **Project Aurora** - 3D puzzle platformer with time manipulation mechanics
+2. **Cyber Run** - Endless runner with procedural level generation
+3. **Castle Defender** - Tower defense game with custom AI pathfinding
+
+## Contact
+- Email: miraj111ahamed@gmail.com
+- LinkedIn: linkedin.com/in/johndoe
+- Portfolio: johndoe.dev
+- GitHub: github.com/johndoe
+
+---
+
+© 2024 John Doe. All rights reserved.
