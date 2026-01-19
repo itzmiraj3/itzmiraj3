@@ -34,7 +34,7 @@ Specialization : Game Development
 - Email: miraj111ahamed@gmail.com
 - LinkedIn:  https://www.linkedin.com/in/monirujjaman-miraj/
 - Portfolio: johndoe.dev
-- GitHub: github.com/johndoe
+- GitHub: https://github.com/itzmiraj3
 
 ---
 
